@@ -2,7 +2,7 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
 ### 2022/08/23
 
-- Dynamic Routes - Implement getStaticPaths
+- Dynamic Routes - Implement getStaticPaths & getStaticProps
 
 ### 2022/08/17
 
