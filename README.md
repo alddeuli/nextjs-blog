@@ -1,8 +1,14 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
+### 2022/08/29
+
+- Polishing the Post Page - date-fns 설치
+
+  $ npm install date-fns
+
 ### 2022/08/25
 
-- Render Markdown - remark 설치하기
+- Render Markdown - remark 설치
 
   $ npm install remark remark-html
 
@@ -23,4 +29,6 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 ### 2022/07/13
 
 - 1. Create a Next.js App ☞ https://nextjs.org/learn/basics/create-nextjs-app/setup
-- 0. Next.js & TypeScript 설치: $ npx create-next-app@latest --typescript
+- 0. Next.js & TypeScript 설치
+
+  $ npx create-next-app@latest --typescript
