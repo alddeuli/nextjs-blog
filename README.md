@@ -1,5 +1,11 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
+### 2022/08/25
+
+- Render Markdown - remark 설치하기
+
+  $ npm install remark remark-html
+
 ### 2022/08/23
 
 - Dynamic Routes - Implement getStaticPaths & getStaticProps
