@@ -1,10 +1,14 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
+### 2022/08/31
+
+- Polishing the Index Page
+
 ### 2022/08/29
 
 - Polishing the Post Page - date-fns 설치
 
-  $ npm install date-fns
+  <code>npm install date-fns</code>
 
 ### 2022/08/25
 
