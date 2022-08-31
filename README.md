@@ -14,7 +14,7 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
 - Render Markdown - remark 설치
 
-  $ npm install remark remark-html
+  <code>npm install remark remark-html</code>
 
 ### 2022/08/23
 
@@ -35,4 +35,4 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 - 1. Create a Next.js App ☞ https://nextjs.org/learn/basics/create-nextjs-app/setup
 - 0. Next.js & TypeScript 설치
 
-  $ npx create-next-app@latest --typescript
+  <code>npx create-next-app@latest --typescript</code>
