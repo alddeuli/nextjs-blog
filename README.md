@@ -2,7 +2,7 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
 ### 2022/09/05
 
-- API Routes
+- 6. API Routes
 
 ### 2022/09/02
 
