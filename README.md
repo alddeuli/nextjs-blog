@@ -1,5 +1,11 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
+### 2022/09/06
+
+- 7. Deploying Your Next.js App
+
+  - Deploy to Vercel: Create a Vercel Account ☞ https://vercel.com/signup
+
 ### 2022/09/05
 
 - 6. API Routes
