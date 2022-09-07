@@ -2,12 +2,11 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
 ### 2022/09/07
 
+- <code>npm run build</code>
 - Builds the production application in the .next folder.
 
-  - <code>npm run build</code>
-
-  - <code>npm run start</code>
-  - <code>yarn add sharp</code>
+- <code>npm run start</code>
+- <code>yarn add sharp</code>
 
 ### 2022/09/06
 
