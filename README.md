@@ -33,7 +33,7 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
 ### 2022/09/02
 
-- Dynamic Routes
+- Dynamic Routes  
   Use `getStaticPaths` to fetch an array of product IDs and use `getStaticProps` to fetch data for each product.
 
 ### 2022/08/31
