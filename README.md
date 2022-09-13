@@ -8,6 +8,7 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
   - next-env.d.ts 파일: This file should not be edited.
 
   <code>touch tsconfig.json</code>
+
   <code>yarn add --dev typescript @types/react @types/node</code>
 
 ### 2022/09/07
@@ -15,7 +16,9 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 - Builds the production application in the .next folder.
 
   <code>npm run build</code>
+
   <code>npm run start</code>
+
   <code>yarn add sharp</code>
 
 ### 2022/09/06
@@ -30,8 +33,8 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
 ### 2022/09/02
 
-- Dynamic Routes  
-  : Use `getStaticPaths` to fetch an array of product IDs and use `getStaticProps` to fetch data for each product.
+- Dynamic Routes
+  Use `getStaticPaths` to fetch an array of product IDs and use `getStaticProps` to fetch data for each product.
 
 ### 2022/08/31
 
