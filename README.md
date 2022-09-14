@@ -1,5 +1,11 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
+### 2022/09/14
+
+- 9. Convering your blog app into TypeScript
+
+  - Custom `App`
+
 ### 2022/09/13
 
 - 8. TypeScript 설치
