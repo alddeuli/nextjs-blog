@@ -4,17 +4,17 @@ import Layout, { siteTitle } from "../components/layout";
 import Date from "../components/date";
 import utilStyles from "../styles/utils.module.css";
 import { getSortedPostsData } from "../lib/posts";
+import { GetStaticProps } from "next";
 
-export async function getStaticProps() {
-  const allPostsData = getSortedPostsData();
-  return {
-    props: {
-      allPostsData,
-    },
+export default function Home({
+  allPostsData,
+}: {
+  allPostsData: {
+    date: string;
+    title: string;
+    id: string;
   };
-}
-
-export default function Home({ allPostsData }) {
+}) {
   return (
     <Layout home>
       {/* Keep the existing code here */}
@@ -50,3 +50,13 @@ export default function Home({ allPostsData }) {
     </Layout>
   );
 }
+
+// export async function getStaticProps() {
+export const getStaticProps: GetStaticProps = async () => {
+  const allPostsData = getSortedPostsData();
+  return {
+    props: {
+      allPostsData,
+    },
+  };
+};

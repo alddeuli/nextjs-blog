@@ -2,9 +2,10 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
 ### 2022/09/14
 
-- 9. Convering your blog app into TypeScript
+- 9. Convering My blog app into TypeScript
 
-  - Custom `App`
+  - Custom `App`: \_app.js → \_app.tsx
+  - Converting My App: 총7개 파일 → TypeScript 로 전환
 
 ### 2022/09/13
 
